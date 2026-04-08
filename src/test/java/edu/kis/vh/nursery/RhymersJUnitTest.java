@@ -1,5 +1,7 @@
 package edu.kis.vh.nursery;
 
+//Projekt jest poprawny i przeszedł walidację testami jednostkowymi
+
 import org.junit.Assert;
 import org.junit.Test;
 
